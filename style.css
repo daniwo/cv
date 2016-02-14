@@ -1,0 +1,167 @@
+body {
+    background-color: #FFFFFF;
+    color: #6f6f6f;
+}
+
+.profileImg {
+    position: absolute;
+    right: 60px;
+    z-index: 2;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: #efefef;
+}
+
+.dot-dark {
+    background-color: #4F4E4F;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.iconBackground0 {
+    width: 55px;
+    height: 55px;
+    background-color: #efefef;
+    text-align: center;
+    padding-top: 9px;
+    border-radius: 50%;
+}
+
+.iconBackground {
+    width: 55px;
+    height: 55px;
+    background-color: #efefef;
+    text-align: center;
+    padding-top: 14px;
+    border-radius: 50%;
+}
+
+.iconBackground2 {
+    width: 70px;
+    height: 70px;
+    background-color: #efefef;
+    text-align: center;
+    padding-top: 12px;
+    border-radius: 50%;
+}
+
+.contactRow {
+    height: 70px;
+}
+
+.colTwoLine {
+    padding-left: 20px;
+}
+
+.colSingleLine {
+    padding-left: 20px;
+    padding-top: 16px;
+}
+
+svg {
+    width: 100%;
+    text-align: center;
+}
+
+svg text {
+    font-size: 16px;
+}
+
+.skillText {
+    font-size: 1.2em;
+    top: -80px;
+    position: relative;
+}
+
+.ion-icon {
+    font-size: 3em;
+    padding-top: 3px;
+}
+
+.ion-background {
+    width: 90px;
+    height: 90px;
+    background-color: #efefef;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 3px;
+
+}
+
+.fa-icon {
+    padding-top: 12px;
+}
+
+.faText{
+	padding-top: 5px;
+}
+.fa-icon.fa-25 {
+	font-size: 2.5em;
+}
+
+.ionText{
+	top: -8px;
+	position: relative;
+}
+
+.padding70 {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.paddingBottom {
+    padding-bottom: 50px;
+}
+
+h4 {
+    text-transform: uppercase;
+    padding-bottom: 10px;
+}
+
+.modal-content {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.education {
+    padding-bottom: 30px;
+}
+
+.opa-icon0 span,
+.opa-icon1 span,
+.opa-icon2 span,
+.opa-icon3 span,
+.opa-icon4 span,
+.opa-icon5 span{
+    font-weight: bold;
+}
+
+.square img {
+    opacity: 0.4;
+}
+
+.square img:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.quote {
+    font-size: 17px;
+}
+
+.quote1 {
+    font-size: 14px;
+}
+
+blockquote{
+	font-size: 20px;
+}
+
+blockquote p{
+	margin-bottom: 30px;
+}
